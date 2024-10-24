@@ -26,4 +26,11 @@ Clinical Validation: Testing the system in real-world clinical environments for 
 # Report and Documentation
 The report of the project and all documentation is uploaded in /Docs folder.
 
+# Personal Contribution
+In this project, my primary contributions include:
+Development of ML and DL models: I worked on developing machine learning and deep learning models for prostate cancer classification.
+Customization of CNN Model: I customized a CNN model for improved feature extraction and classification.
+Development of Vision Transformer (ViT) Model: I developed the Vision Transformer model to enhance classification accuracy, although this model is not included due to confidentiality.
+
+
 
