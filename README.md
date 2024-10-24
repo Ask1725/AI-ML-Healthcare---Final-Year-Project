@@ -23,7 +23,7 @@ Improvement in Model Architecture: Further tuning and optimization of the CNN-SV
 Integration of New Datasets: Incorporating additional datasets for broader cancer types and larger training sets.
 Clinical Validation: Testing the system in real-world clinical environments for validation with expert pathologists.
 
-# Report and Dcoumentation
+# Report and Documentation
 The report of the project and all documentation is uploaded in /Docs folder.
 
 
