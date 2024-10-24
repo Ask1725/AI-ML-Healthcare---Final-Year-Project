@@ -32,5 +32,8 @@ Development of ML and DL models: I worked on developing machine learning and dee
 Customization of CNN Model: I customized a CNN model for improved feature extraction and classification.
 Development of Vision Transformer (ViT) Model: I developed the Vision Transformer model to enhance classification accuracy, although this model is not included due to confidentiality.
 
+# Publication and Conference
+"Beyond Single Models: Hybrid Approaches for Multiclass Cancer Identification"
+Accepted at 2024 3rd International Conference for Advancement in Technology (ICONAT) - 13th Sept 2024. 
 
 
